@@ -1,8 +1,6 @@
 adding a file
 
-<<<<<<< HEAD
 another line 
 
-=======
->>>>>>> a516307...  just a commit for new file
+
 
